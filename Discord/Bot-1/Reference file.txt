@@ -1,0 +1,8 @@
+Discord Development Portal
+
+1. https://discord.com/developers/applications
+
+
+Youtube video reference
+
+1. https://youtu.be/fU-kWx-OYvE
