@@ -1,8 +1,16 @@
-Discord Development Portal
+*** Discord Bot Access Token Code
 
-1. https://discord.com/developers/applications
+    OTUzMTI3NjcyNTM4NjExNzYy.YjADUQ.eXySKO8YL8S-1_necNZXlcPzKqo
+
+*** Generated Discord Invite Link
+
+    https://discord.com/api/oauth2/authorize?client_id=953127672538611762&permissions=534723950656&scope=bot
+
+*** Discord Development Portal
+
+    https://discord.com/developers/applications
 
 
-Youtube video reference
+*** Youtube video reference
 
-1. https://youtu.be/fU-kWx-OYvE
+    https://youtu.be/fU-kWx-OYvE
