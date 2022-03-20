@@ -1,16 +1,24 @@
-*** Discord Bot Access Token Code
+# -------------------------------------------------------------------------------------------- 
+# -------------------------------------------------------------------------------------------- 
+# Bot Name : Hello world
+# Bot Description : This bot created by Tamizha !
+# Channel Name : ProTamizhaYT
+# Channle Link : https://www.youtube.com/c/ProTamizhaYT
+# --------------------------------------------------------------------------------------------
 
-    OTUzMTI3NjcyNTM4NjExNzYy.YjADUQ.eXySKO8YL8S-1_necNZXlcPzKqo
+# Reference
 
-*** Generated Discord Invite Link
+# -------------------------------------------------------------------------------------------- 
+#  Discord Bot Access Token Code
+#     Token like this:
 
-    https://discord.com/api/oauth2/authorize?client_id=953127672538611762&permissions=534723950656&scope=bot
+#     OTUzMTI3NjcyNTM4NjExNzYy.YjADUQ.eXySKO8YL8S-1_necNZXlcPzKqo
 
-*** Discord Development Portal
+#  Generated Discord Invite Link
+#     https://discord.com/api/oauth2/authorize?client_id=953127672538611762&permissions=534723950656&scope=bot
 
-    https://discord.com/developers/applications
+#  Discord Development Portal
+#     https://discord.com/developers/applications
 
-
-*** Youtube video reference
-
-    https://youtu.be/fU-kWx-OYvE
+#  YouTube video reference
+#     https://youtu.be/fU-kWx-OYvE
